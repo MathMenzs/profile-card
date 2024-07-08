@@ -41,6 +41,7 @@ main {
 
 .profile-card .info-pessoais {
   margin-top: 40px;
+  text-align: center;
 
 }
 
@@ -50,10 +51,8 @@ main {
 }
 
 .profile-card .info-pessoais .cidade-usuario {
-  text-align: center;
   margin-top: 9px;
   font-size: 13px;
-
 }
 
 .profile-card .info-conta {
