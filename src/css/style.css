@@ -15,7 +15,7 @@ main {
 .profile-card {
   background-color: #ffffff;
   border-radius: 12px;
-  width: 350px;
+  width: 340px;
   height: 370px;
   display: flex;
   flex-direction: column;
@@ -51,7 +51,7 @@ main {
 
 .profile-card .info-pessoais .cidade-usuario {
   text-align: center;
-  padding-top: 7px;
+  margin-top: 9px;
   font-size: 13px;
 
 }
@@ -62,7 +62,7 @@ main {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 22px 12px;
+  padding: 25px 10px 25px 10px;
 }
 
 .profile-card .info-conta .dados-conta {
